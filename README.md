@@ -1,4 +1,5 @@
 # Bootstrap_Framework
+In Layman’s terms, Bootstrap is just a huge CSS library with styles added to ‘classes’ and allowing us to reuse these classes.
 # Objectives 
 1.Use Bootstrap to build a responsive navigation bar 
 2.Use Bootstrap to build a responsive content grid
