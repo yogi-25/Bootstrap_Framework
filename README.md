@@ -19,6 +19,6 @@ Utilize the Bootstrap framework to quickly create a responsive and good-looking 
 Add responsive navigation bar to your web pages
 
 Add responsive content area as cards with varying organisation based on the screen size
-
-
+# Screenshots
+![Screenshot (79)](https://user-images.githubusercontent.com/55496505/116925058-52c9b000-ac76-11eb-927b-3e6de0953675.png)
 
