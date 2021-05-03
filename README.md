@@ -25,4 +25,4 @@ Add responsive content area as cards with varying organisation based on the scre
 ![Screenshot (80)](https://user-images.githubusercontent.com/55496505/116925281-9c19ff80-ac76-11eb-8048-9ce31adb45d3.png)
 
 # Deployment
-See here[Bootstrap-Framework](https://bootstrap-framework.netlify.app/)
+Check it out from [here](https://bootstrap-framework.netlify.app/)
